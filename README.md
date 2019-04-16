@@ -1,4 +1,8 @@
-This is an open repository for the small experiment made in collaboration between Molamil and SPACE10
+# Experiment Title
+
+![experiment-hero](https://space10.io/content/uploads/2019/04/molamil-16-9-no-ui.png)
+
+This is an open repository for the small experiment made in collaboration between Molamil and SPACE10.
 
 Build in Unity 2018.3.0f2.
 The project includes 6D.ai and PolyToolkit SDK's. Feel free to update them
