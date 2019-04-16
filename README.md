@@ -1,4 +1,4 @@
-This is an open repository for the small experiment made in collaboration with Molamil and Space10
+This is an open repository for the small experiment made in collaboration between Molamil and Space10
 
 Build in Unity 2018.3.0f2.
 The project includes 6D.ai and PolyToolkit SDK's. Feel free to update them
