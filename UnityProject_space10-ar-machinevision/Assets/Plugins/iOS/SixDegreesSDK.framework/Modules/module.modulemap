@@ -1,0 +1,6 @@
+framework module SixDegreesSDK {
+  umbrella header "SixDegreesSDK.h"
+
+  export *
+  module * { export * }
+}
