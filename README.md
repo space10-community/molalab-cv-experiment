@@ -4,11 +4,11 @@
 
 This is an open repository for the small experiment made in collaboration between Molamil and **SPACE10**.
 
-Build in Unity 2018.3.0f2.
-The project includes 6D.ai and PolyToolkit SDK's. Feel free to update them
-To run the project, open the scene: `Assets/_project/main`
-
 ## Setup
+
+Build in Unity 2018.3.0f2.
+The project includes 6D.ai and PolyToolkit SDK's. Feel free to update them.
+To run the project, open the scene: `Assets/_project/main`
 
 You need to create and insert 3 keys:
 - 6D.ai
