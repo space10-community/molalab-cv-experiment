@@ -2,7 +2,9 @@
 
 ![experiment-hero](https://space10.io/content/uploads/2019/04/molamil-16-9-no-ui.png)
 
-This is an open repository for the small experiment made in collaboration between Molamil and **SPACE10**.
+This is an open repository for an experiment made in collaboration between Molamil and **SPACE10**. It explores what perception means to a computer and how it functions. A mixed AR and VR experience, we hacked Google Cardboard for mobile and used the front-facing camera as the eyes of the computer.
+
+Want to try the experiment yourself? Download the source files here and get started below.
 
 ## Setup
 
