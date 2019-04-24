@@ -33,6 +33,10 @@ For the sake of our prototype, we bought the Hololens Shader pack off the Unity 
 
 Now you should be able to build the project to an iPhone. We recommend running the project on an iPhone 8 or newer.
 
+## Google Cardboard
+
+While the experiment is fully capable of running without it, we encourage you to purchase a Google Cardboard and fit it to your own phone, cutting a whole for the front-facing camera. That way the experience becomes truly embodied and more immersive.
+
 ## Troubleshooting
 
 - In XCode, if you get "*unexpected duplicate task: CodeSign*", then go to Build Phases and fold out **Embed Frameworks** and remove the extra SixDegreesSDK.framework if there are more than 1
