@@ -1,4 +1,4 @@
-# Experiment Title
+# See Through the Eyes of a Computer
 
 ![experiment-hero](https://space10.io/content/uploads/2019/04/molamil-16-9-no-ui.png)
 
